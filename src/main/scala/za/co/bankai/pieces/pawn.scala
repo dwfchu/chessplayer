@@ -1,7 +1,7 @@
 package za.co.bankai.pieces
 
-class pawn {
+class Pawn(x:Int, y: Int) extends Piece {
 
-  val position = position(  )
+  val position = Location(1,1)
 
 }

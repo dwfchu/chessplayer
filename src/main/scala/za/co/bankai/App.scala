@@ -14,6 +14,8 @@ object App {
     //create board
     val board = new Board(8,8)
 
+    val pawn =
+
 
 
 
